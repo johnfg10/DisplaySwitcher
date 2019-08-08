@@ -1,0 +1,11 @@
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\bin\Debug\netcoreapp2.2\DisplaySwitcher.deps.json
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\bin\Debug\netcoreapp2.2\DisplaySwitcher.runtimeconfig.json
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\bin\Debug\netcoreapp2.2\DisplaySwitcher.runtimeconfig.dev.json
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\bin\Debug\netcoreapp2.2\DisplaySwitcher.dll
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\bin\Debug\netcoreapp2.2\DisplaySwitcher.pdb
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\obj\Debug\netcoreapp2.2\DisplaySwitcher.csprojAssemblyReference.cache
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\obj\Debug\netcoreapp2.2\DisplaySwitcher.csproj.CoreCompileInputs.cache
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\obj\Debug\netcoreapp2.2\DisplaySwitcher.AssemblyInfoInputs.cache
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\obj\Debug\netcoreapp2.2\DisplaySwitcher.AssemblyInfo.cs
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\obj\Debug\netcoreapp2.2\DisplaySwitcher.dll
+C:\Users\john\RiderProjects\DisplaySwitcher\DisplaySwitcher\obj\Debug\netcoreapp2.2\DisplaySwitcher.pdb
